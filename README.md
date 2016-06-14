@@ -6,7 +6,7 @@ What you need:
 - perl
 - sed
 - inkscape
-The badge template included uses the free font Adobe Sans Pro that you can download there https://www.fontsquirrel.com/fonts/source-sans-pro
+- The badge template included uses the free font Adobe Sans Pro that you can download there https://www.fontsquirrel.com/fonts/source-sans-pro
 
 
 badgerbadger19 works the following way:
