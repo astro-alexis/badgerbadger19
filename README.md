@@ -8,6 +8,7 @@ What you need:
 - inkscape
 - The badge template included uses the free font Adobe Sans Pro that you can download there https://www.fontsquirrel.com/fonts/source-sans-pro
 
+The template included is done to the dimension of the "butterfly badge" paper from Nexus: http://www.nexuscollections.com/eco-butterfly-badge--eco-butterfly-badge-/inventory.html?pcmscat=0&pcmscol=0&pcmssort=0&pcmspage=0&pcmsproductid=225
 
 badgerbadger19 works the following way:
 ##Inputs:
