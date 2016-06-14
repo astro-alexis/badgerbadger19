@@ -32,7 +32,7 @@ do
   sed -i 's*institute*'"$INSTITUTE"'*' $SVGFILENAME
   sed -i 's*diet-constraint*'"$DIET"'*' $SVGFILENAME
   # if there is diet constraint. the ticket is red. if none, ticket is gray
-  if [ "$DIET" = "no restrictions" ]; then
+  if [ "$DIET" = "none" ]; then
     sed -i 's*61ba73*'"888888"'*' $SVGFILENAME
   else
     sed -i 's*61ba73*'"bb3e3e"'*' $SVGFILENAME
