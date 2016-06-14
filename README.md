@@ -8,8 +8,8 @@ What you need:
 - inkscape
 
 badgerbadger19 works the following way:
-Inputs:
-A star-separated-value input file (all field separated with asterisks *). In the case of CS19 the file has the following columns:
+##Inputs:
+A star-separated-value input file (all field separated with asterisks). In the case of CS19 the file has the following columns:
 1. NAME1 (first name)
 2. NAME2 (last name)
 3. INSTITUTE (affiliation)
@@ -43,13 +43,16 @@ A star-separated-value input file (all field separated with asterisks *). In the
 
 A SVG template (an example is included: template.svg). This template has placeholders that will be replaced by badgerbadger19.sh
 
-Outputs:
-PDF badges in the pdf/ folder, and PNG badges in the png/ folder
+##Outputs:
+PDF badges in the pdf/ folder, SVG badges in svg/ folder, and PNG badges in the png/ folder
 
-How to run this thing:
+## How to run this thing:
 bash badgerbadger19.sh input-file
 
 So with the input example file included:
 bash badgerbadger19.sh input.scv
 
 This is v0, the research badges are not included yet. I would need to find an entire set that can be used for free. Stay tuned.
+
+## why badgerbadger19?
+It makes badges, it's a badger. I like badger badger https://www.youtube.com/watch?v=hGlyFc79BUE
